@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="green puffball.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="green puffball0000" x="0" y="0" width="115" height="136"/>
+	<SubTexture name="green puffball0001" x="0" y="0" width="115" height="136"/>
+	<SubTexture name="green puffball0002" x="118" y="0" width="115" height="136"/>
+	<SubTexture name="green puffball0003" x="118" y="0" width="115" height="136"/>
+	<SubTexture name="green puffball0004" x="118" y="0" width="115" height="136"/>
+	<SubTexture name="green puffball0005" x="236" y="0" width="115" height="136"/>
+	<SubTexture name="green puffball0006" x="236" y="0" width="115" height="136"/>
+	<SubTexture name="green puffball0007" x="236" y="0" width="115" height="136"/>
+	<SubTexture name="green puffball0008" x="354" y="0" width="115" height="136"/>
+	<SubTexture name="green puffball0009" x="354" y="0" width="115" height="136"/>
+	<SubTexture name="green puffball0010" x="0" y="139" width="115" height="136"/>
+	<SubTexture name="green puffball0011" x="0" y="139" width="115" height="136"/>
+	<SubTexture name="green puffball0012" x="0" y="139" width="115" height="136"/>
+	<SubTexture name="green puffball0013" x="0" y="139" width="115" height="136"/>
+</TextureAtlas>

@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "one angry idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-54,
+				-11
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "one angry right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				83,
+				-12
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "one angry left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				70
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "one angry up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-29
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "one angry down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				-18
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "one angry right miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				95,
+				-20
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "one angry left miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				10
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "one angry up miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				-38
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "one angry down miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "final",
+			"loop": false,
+			"name": "one final anim"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/one-angry",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "one-danger",
+	"flip_x": true,
+	"healthbar_colors": [
+		118,
+		44,
+		180
+	],
+	"camera_position": [
+		-250,
+		-390
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

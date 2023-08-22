@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sacky.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sacky0000" x="0" y="0" width="360" height="289"/>
+	<SubTexture name="sacky0001" x="0" y="0" width="360" height="289"/>
+	<SubTexture name="sacky0002" x="363" y="0" width="360" height="289"/>
+	<SubTexture name="sacky0003" x="363" y="0" width="360" height="289"/>
+	<SubTexture name="sacky0004" x="0" y="292" width="360" height="289"/>
+	<SubTexture name="sacky0005" x="0" y="292" width="360" height="289"/>
+	<SubTexture name="sacky0006" x="0" y="292" width="360" height="289"/>
+	<SubTexture name="sacky0007" x="363" y="292" width="360" height="289"/>
+	<SubTexture name="sacky0008" x="363" y="292" width="360" height="289"/>
+	<SubTexture name="sacky0009" x="363" y="292" width="360" height="289"/>
+	<SubTexture name="sacky0010" x="363" y="292" width="360" height="289"/>
+	<SubTexture name="sacky0011" x="363" y="292" width="360" height="289"/>
+	<SubTexture name="sacky0012" x="363" y="292" width="360" height="289"/>
+	<SubTexture name="sacky0013" x="363" y="292" width="360" height="289"/>
+</TextureAtlas>

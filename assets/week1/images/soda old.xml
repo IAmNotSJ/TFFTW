@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="soda old.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="soda old0000" x="0" y="0" width="460" height="582"/>
+	<SubTexture name="soda old0001" x="0" y="0" width="460" height="582"/>
+	<SubTexture name="soda old0002" x="463" y="0" width="460" height="582"/>
+	<SubTexture name="soda old0003" x="463" y="0" width="460" height="582"/>
+	<SubTexture name="soda old0004" x="926" y="0" width="460" height="582"/>
+	<SubTexture name="soda old0005" x="926" y="0" width="460" height="582"/>
+	<SubTexture name="soda old0006" x="926" y="0" width="460" height="582"/>
+	<SubTexture name="soda old0007" x="1389" y="0" width="460" height="582"/>
+	<SubTexture name="soda old0008" x="1389" y="0" width="460" height="582"/>
+	<SubTexture name="soda old0009" x="1389" y="0" width="460" height="582"/>
+	<SubTexture name="soda old0010" x="1389" y="0" width="460" height="582"/>
+	<SubTexture name="soda old0011" x="1389" y="0" width="460" height="582"/>
+	<SubTexture name="soda old0012" x="1389" y="0" width="460" height="582"/>
+	<SubTexture name="soda old0013" x="1389" y="0" width="460" height="582"/>
+</TextureAtlas>

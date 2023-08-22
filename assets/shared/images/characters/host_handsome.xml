@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="host_handsome.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="host down0000" x="0" y="0" width="475" height="561"/>
+	<SubTexture name="host down0001" x="0" y="0" width="475" height="561"/>
+	<SubTexture name="host down0002" x="478" y="0" width="475" height="561"/>
+	<SubTexture name="host down0003" x="478" y="0" width="475" height="561"/>
+	<SubTexture name="host down0004" x="956" y="0" width="475" height="561"/>
+	<SubTexture name="host down0005" x="956" y="0" width="475" height="561"/>
+	<SubTexture name="host down0006" x="956" y="0" width="475" height="561"/>
+	<SubTexture name="host down0007" x="956" y="0" width="475" height="561"/>
+	<SubTexture name="host down0008" x="956" y="0" width="475" height="561"/>
+	<SubTexture name="host down0009" x="956" y="0" width="475" height="561"/>
+	<SubTexture name="host down0010" x="956" y="0" width="475" height="561"/>
+	<SubTexture name="host idle0000" x="1434" y="0" width="418" height="572"/>
+	<SubTexture name="host idle0001" x="1434" y="0" width="418" height="572"/>
+	<SubTexture name="host idle0002" x="1434" y="0" width="418" height="572"/>
+	<SubTexture name="host idle0003" x="1855" y="0" width="418" height="572"/>
+	<SubTexture name="host idle0004" x="1855" y="0" width="418" height="572"/>
+	<SubTexture name="host idle0005" x="1855" y="0" width="418" height="572"/>
+	<SubTexture name="host idle0006" x="2276" y="0" width="418" height="572"/>
+	<SubTexture name="host idle0007" x="2276" y="0" width="418" height="572"/>
+	<SubTexture name="host idle0008" x="2697" y="0" width="418" height="572"/>
+	<SubTexture name="host idle0009" x="2697" y="0" width="418" height="572"/>
+	<SubTexture name="host idle0010" x="2697" y="0" width="418" height="572"/>
+	<SubTexture name="host idle0011" x="2697" y="0" width="418" height="572"/>
+	<SubTexture name="host idle0012" x="2697" y="0" width="418" height="572"/>
+	<SubTexture name="host idle0013" x="2697" y="0" width="418" height="572"/>
+	<SubTexture name="host left0000" x="3118" y="0" width="417" height="582"/>
+	<SubTexture name="host left0001" x="3118" y="0" width="417" height="582"/>
+	<SubTexture name="host left0002" x="3538" y="0" width="417" height="582"/>
+	<SubTexture name="host left0003" x="3538" y="0" width="417" height="582"/>
+	<SubTexture name="host left0004" x="0" y="585" width="417" height="582"/>
+	<SubTexture name="host left0005" x="0" y="585" width="417" height="582"/>
+	<SubTexture name="host left0006" x="0" y="585" width="417" height="582"/>
+	<SubTexture name="host left0007" x="0" y="585" width="417" height="582"/>
+	<SubTexture name="host left0008" x="0" y="585" width="417" height="582"/>
+	<SubTexture name="host left0009" x="0" y="585" width="417" height="582"/>
+	<SubTexture name="host left0010" x="0" y="585" width="417" height="582"/>
+	<SubTexture name="host right0000" x="420" y="585" width="464" height="564"/>
+	<SubTexture name="host right0001" x="420" y="585" width="464" height="564"/>
+	<SubTexture name="host right0002" x="887" y="585" width="464" height="564"/>
+	<SubTexture name="host right0003" x="887" y="585" width="464" height="564"/>
+	<SubTexture name="host right0004" x="1354" y="585" width="464" height="564"/>
+	<SubTexture name="host right0005" x="1354" y="585" width="464" height="564"/>
+	<SubTexture name="host right0006" x="1354" y="585" width="464" height="564"/>
+	<SubTexture name="host right0007" x="1354" y="585" width="464" height="564"/>
+	<SubTexture name="host right0008" x="1354" y="585" width="464" height="564"/>
+	<SubTexture name="host right0009" x="1354" y="585" width="464" height="564"/>
+	<SubTexture name="host right0010" x="1354" y="585" width="464" height="564"/>
+	<SubTexture name="host up0000" x="1821" y="585" width="398" height="570"/>
+	<SubTexture name="host up0001" x="1821" y="585" width="398" height="570"/>
+	<SubTexture name="host up0002" x="2222" y="585" width="398" height="570"/>
+	<SubTexture name="host up0003" x="2222" y="585" width="398" height="570"/>
+	<SubTexture name="host up0004" x="2623" y="585" width="398" height="570"/>
+	<SubTexture name="host up0005" x="2623" y="585" width="398" height="570"/>
+	<SubTexture name="host up0006" x="2623" y="585" width="398" height="570"/>
+	<SubTexture name="host up0007" x="2623" y="585" width="398" height="570"/>
+	<SubTexture name="host up0008" x="2623" y="585" width="398" height="570"/>
+	<SubTexture name="host up0009" x="2623" y="585" width="398" height="570"/>
+	<SubTexture name="host up0010" x="2623" y="585" width="398" height="570"/>
+</TextureAtlas>

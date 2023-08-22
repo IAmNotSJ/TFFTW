@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nunchucks old.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nunchucks old0000" x="0" y="0" width="641" height="888"/>
+	<SubTexture name="nunchucks old0001" x="0" y="0" width="641" height="888"/>
+	<SubTexture name="nunchucks old0002" x="644" y="0" width="641" height="888"/>
+	<SubTexture name="nunchucks old0003" x="644" y="0" width="641" height="888"/>
+	<SubTexture name="nunchucks old0004" x="1288" y="0" width="641" height="888"/>
+	<SubTexture name="nunchucks old0005" x="1288" y="0" width="641" height="888"/>
+	<SubTexture name="nunchucks old0006" x="1288" y="0" width="641" height="888"/>
+	<SubTexture name="nunchucks old0007" x="0" y="891" width="641" height="888"/>
+	<SubTexture name="nunchucks old0008" x="0" y="891" width="641" height="888"/>
+	<SubTexture name="nunchucks old0009" x="0" y="891" width="641" height="888"/>
+	<SubTexture name="nunchucks old0010" x="0" y="891" width="641" height="888"/>
+	<SubTexture name="nunchucks old0011" x="0" y="891" width="641" height="888"/>
+	<SubTexture name="nunchucks old0012" x="0" y="891" width="641" height="888"/>
+	<SubTexture name="nunchucks old0013" x="0" y="891" width="641" height="888"/>
+</TextureAtlas>

@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="one-danger.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="one danger down0000" x="0" y="0" width="282" height="544"/>
+	<SubTexture name="one danger down0001" x="0" y="0" width="282" height="544"/>
+	<SubTexture name="one danger down0002" x="285" y="0" width="282" height="544"/>
+	<SubTexture name="one danger down0003" x="285" y="0" width="282" height="544"/>
+	<SubTexture name="one danger down0004" x="570" y="0" width="282" height="544"/>
+	<SubTexture name="one danger down0005" x="570" y="0" width="282" height="544"/>
+	<SubTexture name="one danger down0006" x="570" y="0" width="282" height="544"/>
+	<SubTexture name="one danger down miss0000" x="855" y="0" width="334" height="526"/>
+	<SubTexture name="one danger down miss0001" x="1192" y="0" width="334" height="526"/>
+	<SubTexture name="one danger down miss0002" x="1192" y="0" width="334" height="526"/>
+	<SubTexture name="one danger down miss0003" x="1529" y="0" width="334" height="526"/>
+	<SubTexture name="one danger down miss0004" x="1529" y="0" width="334" height="526"/>
+	<SubTexture name="one danger down miss0005" x="1529" y="0" width="334" height="526"/>
+	<SubTexture name="one danger down miss0006" x="1529" y="0" width="334" height="526"/>
+	<SubTexture name="one danger down miss0007" x="1529" y="0" width="334" height="526"/>
+	<SubTexture name="one danger down miss0008" x="1529" y="0" width="334" height="526"/>
+	<SubTexture name="one danger down miss0009" x="1529" y="0" width="334" height="526"/>
+	<SubTexture name="one danger down miss0010" x="1529" y="0" width="334" height="526"/>
+	<SubTexture name="one danger down miss0011" x="1529" y="0" width="334" height="526"/>
+	<SubTexture name="one danger down miss0012" x="1529" y="0" width="334" height="526"/>
+	<SubTexture name="one danger down miss0013" x="1529" y="0" width="334" height="526"/>
+	<SubTexture name="one danger down miss0014" x="1529" y="0" width="334" height="526"/>
+	<SubTexture name="one danger down miss0015" x="1529" y="0" width="334" height="526"/>
+	<SubTexture name="one danger down miss0016" x="1529" y="0" width="334" height="526"/>
+	<SubTexture name="one danger idle0000" x="1866" y="0" width="261" height="529"/>
+	<SubTexture name="one danger idle0001" x="1866" y="0" width="261" height="529"/>
+	<SubTexture name="one danger idle0002" x="2130" y="0" width="261" height="529"/>
+	<SubTexture name="one danger idle0003" x="2130" y="0" width="261" height="529"/>
+	<SubTexture name="one danger idle0004" x="2394" y="0" width="261" height="529"/>
+	<SubTexture name="one danger idle0005" x="2394" y="0" width="261" height="529"/>
+	<SubTexture name="one danger idle0006" x="2658" y="0" width="261" height="529"/>
+	<SubTexture name="one danger idle0007" x="2658" y="0" width="261" height="529"/>
+	<SubTexture name="one danger idle0008" x="2394" y="0" width="261" height="529"/>
+	<SubTexture name="one danger idle0009" x="2394" y="0" width="261" height="529"/>
+	<SubTexture name="one danger idle0010" x="2658" y="0" width="261" height="529"/>
+	<SubTexture name="one danger idle0011" x="2658" y="0" width="261" height="529"/>
+	<SubTexture name="one danger idle0012" x="2922" y="0" width="261" height="529"/>
+	<SubTexture name="one danger idle0013" x="2922" y="0" width="261" height="529"/>
+	<SubTexture name="one danger left0000" x="3186" y="0" width="355" height="521"/>
+	<SubTexture name="one danger left0001" x="3186" y="0" width="355" height="521"/>
+	<SubTexture name="one danger left0002" x="3544" y="0" width="355" height="521"/>
+	<SubTexture name="one danger left0003" x="3544" y="0" width="355" height="521"/>
+	<SubTexture name="one danger left0004" x="0" y="547" width="355" height="521"/>
+	<SubTexture name="one danger left0005" x="0" y="547" width="355" height="521"/>
+	<SubTexture name="one danger left0006" x="0" y="547" width="355" height="521"/>
+	<SubTexture name="one danger left0007" x="0" y="547" width="355" height="521"/>
+	<SubTexture name="one danger left0008" x="0" y="547" width="355" height="521"/>
+	<SubTexture name="one danger left0009" x="0" y="547" width="355" height="521"/>
+	<SubTexture name="one danger left0010" x="0" y="547" width="355" height="521"/>
+	<SubTexture name="one danger left miss0000" x="358" y="547" width="372" height="522"/>
+	<SubTexture name="one danger left miss0001" x="733" y="547" width="372" height="522"/>
+	<SubTexture name="one danger left miss0002" x="733" y="547" width="372" height="522"/>
+	<SubTexture name="one danger left miss0003" x="1108" y="547" width="372" height="522"/>
+	<SubTexture name="one danger left miss0004" x="1108" y="547" width="372" height="522"/>
+	<SubTexture name="one danger left miss0005" x="1108" y="547" width="372" height="522"/>
+	<SubTexture name="one danger left miss0006" x="1108" y="547" width="372" height="522"/>
+	<SubTexture name="one danger left miss0007" x="1108" y="547" width="372" height="522"/>
+	<SubTexture name="one danger left miss0008" x="1108" y="547" width="372" height="522"/>
+	<SubTexture name="one danger left miss0009" x="1108" y="547" width="372" height="522"/>
+	<SubTexture name="one danger left miss0010" x="1108" y="547" width="372" height="522"/>
+	<SubTexture name="one danger left miss0011" x="1108" y="547" width="372" height="522"/>
+	<SubTexture name="one danger right0000" x="1483" y="547" width="317" height="520"/>
+	<SubTexture name="one danger right0001" x="1483" y="547" width="317" height="520"/>
+	<SubTexture name="one danger right0002" x="1803" y="547" width="317" height="520"/>
+	<SubTexture name="one danger right0003" x="1803" y="547" width="317" height="520"/>
+	<SubTexture name="one danger right0004" x="2123" y="547" width="317" height="520"/>
+	<SubTexture name="one danger right0005" x="2123" y="547" width="317" height="520"/>
+	<SubTexture name="one danger right0006" x="2123" y="547" width="317" height="520"/>
+	<SubTexture name="one danger right0007" x="2123" y="547" width="317" height="520"/>
+	<SubTexture name="one danger right0008" x="2123" y="547" width="317" height="520"/>
+	<SubTexture name="one danger right0009" x="2123" y="547" width="317" height="520"/>
+	<SubTexture name="one danger right0010" x="2123" y="547" width="317" height="520"/>
+	<SubTexture name="one danger right miss0000" x="2443" y="547" width="307" height="519"/>
+	<SubTexture name="one danger right miss0001" x="2753" y="547" width="307" height="519"/>
+	<SubTexture name="one danger right miss0002" x="2753" y="547" width="307" height="519"/>
+	<SubTexture name="one danger right miss0003" x="3063" y="547" width="307" height="519"/>
+	<SubTexture name="one danger right miss0004" x="3063" y="547" width="307" height="519"/>
+	<SubTexture name="one danger right miss0005" x="3063" y="547" width="307" height="519"/>
+	<SubTexture name="one danger right miss0006" x="3063" y="547" width="307" height="519"/>
+	<SubTexture name="one danger right miss0007" x="3063" y="547" width="307" height="519"/>
+	<SubTexture name="one danger right miss0008" x="3063" y="547" width="307" height="519"/>
+	<SubTexture name="one danger right miss0009" x="3063" y="547" width="307" height="519"/>
+	<SubTexture name="one danger right miss0010" x="3063" y="547" width="307" height="519"/>
+	<SubTexture name="one danger right miss0011" x="3063" y="547" width="307" height="519"/>
+	<SubTexture name="one danger up0000" x="3373" y="547" width="256" height="533"/>
+	<SubTexture name="one danger up0001" x="3373" y="547" width="256" height="533"/>
+	<SubTexture name="one danger up0002" x="3632" y="547" width="256" height="533"/>
+	<SubTexture name="one danger up0003" x="3632" y="547" width="256" height="533"/>
+	<SubTexture name="one danger up0004" x="0" y="1083" width="256" height="533"/>
+	<SubTexture name="one danger up0005" x="0" y="1083" width="256" height="533"/>
+	<SubTexture name="one danger up0006" x="0" y="1083" width="256" height="533"/>
+	<SubTexture name="one danger up0007" x="0" y="1083" width="256" height="533"/>
+	<SubTexture name="one danger up0008" x="0" y="1083" width="256" height="533"/>
+	<SubTexture name="one danger up0009" x="0" y="1083" width="256" height="533"/>
+	<SubTexture name="one danger up0010" x="0" y="1083" width="256" height="533"/>
+	<SubTexture name="one danger up miss0000" x="259" y="1083" width="262" height="523"/>
+	<SubTexture name="one danger up miss0001" x="524" y="1083" width="262" height="523"/>
+	<SubTexture name="one danger up miss0002" x="524" y="1083" width="262" height="523"/>
+	<SubTexture name="one danger up miss0003" x="789" y="1083" width="262" height="523"/>
+	<SubTexture name="one danger up miss0004" x="789" y="1083" width="262" height="523"/>
+	<SubTexture name="one danger up miss0005" x="789" y="1083" width="262" height="523"/>
+	<SubTexture name="one danger up miss0006" x="789" y="1083" width="262" height="523"/>
+	<SubTexture name="one danger up miss0007" x="789" y="1083" width="262" height="523"/>
+	<SubTexture name="one danger up miss0008" x="789" y="1083" width="262" height="523"/>
+	<SubTexture name="one danger up miss0009" x="789" y="1083" width="262" height="523"/>
+	<SubTexture name="one danger up miss0010" x="789" y="1083" width="262" height="523"/>
+	<SubTexture name="one danger up miss0011" x="789" y="1083" width="262" height="523"/>
+	<SubTexture name="one danger up miss0012" x="789" y="1083" width="262" height="523"/>
+	<SubTexture name="one danger up miss0013" x="789" y="1083" width="262" height="523"/>
+	<SubTexture name="one danger up miss0014" x="789" y="1083" width="262" height="523"/>
+	<SubTexture name="one danger up miss0015" x="789" y="1083" width="262" height="523"/>
+	<SubTexture name="one danger up miss0016" x="789" y="1083" width="262" height="523"/>
+</TextureAtlas>

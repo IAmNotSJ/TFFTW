@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="director-phase3.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="director down phase 30000" x="0" y="0" width="448" height="572"/>
+	<SubTexture name="director down phase 30001" x="451" y="0" width="448" height="572"/>
+	<SubTexture name="director down phase 30002" x="902" y="0" width="448" height="572"/>
+	<SubTexture name="director idle phase 30000" x="1353" y="0" width="448" height="572"/>
+	<SubTexture name="director idle phase 30001" x="1804" y="0" width="448" height="572"/>
+	<SubTexture name="director idle phase 30002" x="2255" y="0" width="448" height="572"/>
+	<SubTexture name="director left phase 30000" x="2706" y="0" width="448" height="572"/>
+	<SubTexture name="director left phase 30001" x="3157" y="0" width="448" height="572"/>
+	<SubTexture name="director left phase 30002" x="3608" y="0" width="448" height="572"/>
+	<SubTexture name="director right phase 30000" x="0" y="575" width="448" height="572"/>
+	<SubTexture name="director right phase 30001" x="451" y="575" width="448" height="572"/>
+	<SubTexture name="director right phase 30002" x="902" y="575" width="448" height="572"/>
+	<SubTexture name="director up phase 30000" x="1353" y="575" width="448" height="572"/>
+	<SubTexture name="director up phase 30001" x="1804" y="575" width="448" height="572"/>
+	<SubTexture name="director up phase 30002" x="2255" y="575" width="448" height="572"/>
+</TextureAtlas>

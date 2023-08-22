@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "one danger idle"
+		},
+		{
+			"offsets": [
+				-34,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "one danger right0"
+		},
+		{
+			"offsets": [
+				61,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "one danger left0"
+		},
+		{
+			"offsets": [
+				10,
+				39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "one danger up0"
+		},
+		{
+			"offsets": [
+				-1,
+				-29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "one danger down0"
+		},
+		{
+			"offsets": [
+				-24,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "one danger right miss"
+		},
+		{
+			"offsets": [
+				70,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "one danger left miss"
+		},
+		{
+			"offsets": [
+				6,
+				44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "one danger up miss"
+		},
+		{
+			"offsets": [
+				-24,
+				-32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "one danger down miss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/one-danger",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "one-danger",
+	"flip_x": true,
+	"healthbar_colors": [
+		118,
+		44,
+		180
+	],
+	"camera_position": [
+		-250,
+		-390
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

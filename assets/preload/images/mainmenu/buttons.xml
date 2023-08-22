@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="buttons.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="credits_menu0000" x="3" y="3" width="436" height="134"/>
+	<SubTexture name="credits_menu0001" x="3" y="3" width="436" height="134"/>
+	<SubTexture name="credits_menu0002" x="442" y="3" width="436" height="134"/>
+	<SubTexture name="credits_menu0003" x="442" y="3" width="436" height="134"/>
+	<SubTexture name="freeplay_menu0000" x="3" y="140" width="325" height="116"/>
+	<SubTexture name="freeplay_menu0001" x="3" y="140" width="325" height="116"/>
+	<SubTexture name="freeplay_menu0002" x="331" y="140" width="325" height="116"/>
+	<SubTexture name="freeplay_menu0003" x="331" y="140" width="325" height="116"/>
+	<SubTexture name="options_menu0000" x="3" y="259" width="459" height="140"/>
+	<SubTexture name="options_menu0001" x="3" y="259" width="459" height="140"/>
+	<SubTexture name="options_menu0002" x="465" y="259" width="459" height="140"/>
+	<SubTexture name="options_menu0003" x="465" y="259" width="459" height="140"/>
+	<SubTexture name="story_menu0000" x="3" y="402" width="284" height="118"/>
+	<SubTexture name="story_menu0001" x="3" y="402" width="284" height="118"/>
+	<SubTexture name="story_menu0002" x="290" y="402" width="284" height="118"/>
+	<SubTexture name="story_menu0003" x="290" y="402" width="284" height="118"/>
+	<SubTexture name="tsftw_menu0000" x="3" y="523" width="449" height="125"/>
+	<SubTexture name="tsftw_menu0001" x="3" y="523" width="449" height="125"/>
+	<SubTexture name="tsftw_menu0002" x="455" y="523" width="449" height="125"/>
+	<SubTexture name="tsftw_menu0003" x="455" y="523" width="449" height="125"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bowling ball old.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bowling ball old0000" x="0" y="0" width="213" height="252"/>
+	<SubTexture name="bowling ball old0001" x="0" y="0" width="213" height="252"/>
+	<SubTexture name="bowling ball old0002" x="216" y="0" width="213" height="252"/>
+	<SubTexture name="bowling ball old0003" x="216" y="0" width="213" height="252"/>
+	<SubTexture name="bowling ball old0004" x="0" y="255" width="213" height="252"/>
+	<SubTexture name="bowling ball old0005" x="0" y="255" width="213" height="252"/>
+	<SubTexture name="bowling ball old0006" x="216" y="255" width="213" height="252"/>
+	<SubTexture name="bowling ball old0007" x="216" y="255" width="213" height="252"/>
+	<SubTexture name="bowling ball old0008" x="216" y="255" width="213" height="252"/>
+	<SubTexture name="bowling ball old0009" x="216" y="255" width="213" height="252"/>
+	<SubTexture name="bowling ball old0010" x="216" y="255" width="213" height="252"/>
+	<SubTexture name="bowling ball old0011" x="216" y="255" width="213" height="252"/>
+	<SubTexture name="bowling ball old0012" x="216" y="255" width="213" height="252"/>
+	<SubTexture name="bowling ball old0013" x="216" y="255" width="213" height="252"/>
+</TextureAtlas>

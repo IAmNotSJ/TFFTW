@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="phone old.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="phone old0000" x="0" y="0" width="144" height="218"/>
+	<SubTexture name="phone old0001" x="0" y="0" width="144" height="218"/>
+	<SubTexture name="phone old0002" x="147" y="0" width="144" height="218"/>
+	<SubTexture name="phone old0003" x="147" y="0" width="144" height="218"/>
+	<SubTexture name="phone old0004" x="294" y="0" width="144" height="218"/>
+	<SubTexture name="phone old0005" x="294" y="0" width="144" height="218"/>
+	<SubTexture name="phone old0006" x="0" y="221" width="144" height="218"/>
+	<SubTexture name="phone old0007" x="0" y="221" width="144" height="218"/>
+	<SubTexture name="phone old0008" x="0" y="221" width="144" height="218"/>
+	<SubTexture name="phone old0009" x="0" y="221" width="144" height="218"/>
+	<SubTexture name="phone old0010" x="0" y="221" width="144" height="218"/>
+	<SubTexture name="phone old0011" x="0" y="221" width="144" height="218"/>
+	<SubTexture name="phone old0012" x="0" y="221" width="144" height="218"/>
+	<SubTexture name="phone old0013" x="0" y="221" width="144" height="218"/>
+</TextureAtlas>

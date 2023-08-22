@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="backpack old.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="backpack old0000" x="0" y="0" width="343" height="538"/>
+	<SubTexture name="backpack old0001" x="0" y="0" width="343" height="538"/>
+	<SubTexture name="backpack old0002" x="346" y="0" width="343" height="538"/>
+	<SubTexture name="backpack old0003" x="346" y="0" width="343" height="538"/>
+	<SubTexture name="backpack old0004" x="692" y="0" width="343" height="538"/>
+	<SubTexture name="backpack old0005" x="692" y="0" width="343" height="538"/>
+	<SubTexture name="backpack old0006" x="692" y="0" width="343" height="538"/>
+	<SubTexture name="backpack old0007" x="692" y="0" width="343" height="538"/>
+	<SubTexture name="backpack old0008" x="692" y="0" width="343" height="538"/>
+	<SubTexture name="backpack old0009" x="692" y="0" width="343" height="538"/>
+	<SubTexture name="backpack old0010" x="692" y="0" width="343" height="538"/>
+	<SubTexture name="backpack old0011" x="692" y="0" width="343" height="538"/>
+	<SubTexture name="backpack old0012" x="692" y="0" width="343" height="538"/>
+	<SubTexture name="backpack old0013" x="692" y="0" width="343" height="538"/>
+</TextureAtlas>

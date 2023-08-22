@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="glassy old.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="glassy old0000" x="0" y="0" width="115" height="111"/>
+	<SubTexture name="glassy old0001" x="0" y="0" width="115" height="111"/>
+	<SubTexture name="glassy old0002" x="118" y="0" width="115" height="111"/>
+	<SubTexture name="glassy old0003" x="118" y="0" width="115" height="111"/>
+	<SubTexture name="glassy old0004" x="0" y="114" width="115" height="111"/>
+	<SubTexture name="glassy old0005" x="0" y="114" width="115" height="111"/>
+	<SubTexture name="glassy old0006" x="118" y="114" width="115" height="111"/>
+	<SubTexture name="glassy old0007" x="118" y="114" width="115" height="111"/>
+	<SubTexture name="glassy old0008" x="118" y="114" width="115" height="111"/>
+	<SubTexture name="glassy old0009" x="118" y="114" width="115" height="111"/>
+	<SubTexture name="glassy old0010" x="118" y="114" width="115" height="111"/>
+	<SubTexture name="glassy old0011" x="118" y="114" width="115" height="111"/>
+	<SubTexture name="glassy old0012" x="118" y="114" width="115" height="111"/>
+	<SubTexture name="glassy old0013" x="118" y="114" width="115" height="111"/>
+</TextureAtlas>

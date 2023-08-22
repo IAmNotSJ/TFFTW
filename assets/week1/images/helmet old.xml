@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="helmet old.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="helmet old0000" x="0" y="0" width="483" height="334"/>
+	<SubTexture name="helmet old0001" x="0" y="0" width="483" height="334"/>
+	<SubTexture name="helmet old0002" x="486" y="0" width="483" height="334"/>
+	<SubTexture name="helmet old0003" x="486" y="0" width="483" height="334"/>
+	<SubTexture name="helmet old0004" x="0" y="337" width="483" height="334"/>
+	<SubTexture name="helmet old0005" x="0" y="337" width="483" height="334"/>
+	<SubTexture name="helmet old0006" x="0" y="337" width="483" height="334"/>
+	<SubTexture name="helmet old0007" x="486" y="337" width="483" height="334"/>
+	<SubTexture name="helmet old0008" x="486" y="337" width="483" height="334"/>
+	<SubTexture name="helmet old0009" x="486" y="337" width="483" height="334"/>
+	<SubTexture name="helmet old0010" x="486" y="337" width="483" height="334"/>
+	<SubTexture name="helmet old0011" x="486" y="337" width="483" height="334"/>
+	<SubTexture name="helmet old0012" x="486" y="337" width="483" height="334"/>
+	<SubTexture name="helmet old0013" x="486" y="337" width="483" height="334"/>
+</TextureAtlas>

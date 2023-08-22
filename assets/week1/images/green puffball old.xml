@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="green puffball old.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="green puffball old0000" x="0" y="0" width="131" height="144"/>
+	<SubTexture name="green puffball old0001" x="0" y="0" width="131" height="144"/>
+	<SubTexture name="green puffball old0002" x="134" y="0" width="131" height="144"/>
+	<SubTexture name="green puffball old0003" x="134" y="0" width="131" height="144"/>
+	<SubTexture name="green puffball old0004" x="268" y="0" width="131" height="144"/>
+	<SubTexture name="green puffball old0005" x="268" y="0" width="131" height="144"/>
+	<SubTexture name="green puffball old0006" x="0" y="147" width="131" height="144"/>
+	<SubTexture name="green puffball old0007" x="0" y="147" width="131" height="144"/>
+	<SubTexture name="green puffball old0008" x="0" y="147" width="131" height="144"/>
+	<SubTexture name="green puffball old0009" x="0" y="147" width="131" height="144"/>
+	<SubTexture name="green puffball old0010" x="0" y="147" width="131" height="144"/>
+	<SubTexture name="green puffball old0011" x="0" y="147" width="131" height="144"/>
+	<SubTexture name="green puffball old0012" x="0" y="147" width="131" height="144"/>
+	<SubTexture name="green puffball old0013" x="0" y="147" width="131" height="144"/>
+</TextureAtlas>

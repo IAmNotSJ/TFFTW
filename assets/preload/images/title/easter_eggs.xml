@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="easter_eggs.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="clone0000" x="3" y="3" width="75" height="123"/>
+	<SubTexture name="lenny0000" x="81" y="3" width="138" height="109"/>
+	<SubTexture name="milk0000" x="222" y="3" width="93" height="144"/>
+	<SubTexture name="old_ship0000" x="318" y="3" width="284" height="191"/>
+	<SubTexture name="orange0000" x="605" y="3" width="63" height="63"/>
+	<SubTexture name="orion0000" x="671" y="3" width="79" height="80"/>
+	<SubTexture name="sj0000" x="753" y="3" width="76" height="108"/>
+	<SubTexture name="spoogles0000" x="832" y="3" width="107" height="106"/>
+	<SubTexture name="springtrap0000" x="3" y="197" width="121" height="263"/>
+	<SubTexture name="star0000" x="127" y="197" width="95" height="95"/>
+	<SubTexture name="strike0000" x="225" y="197" width="116" height="91"/>
+	<SubTexture name="towa0000" x="344" y="197" width="119" height="122"/>
+	<SubTexture name="zeph0000" x="466" y="197" width="210" height="233"/>
+</TextureAtlas>

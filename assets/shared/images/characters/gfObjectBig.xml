@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfObjectBig.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gfIdleOffset0000" x="3" y="3" width="499" height="677"/>
+	<SubTexture name="gfIdleOffset0001" x="3" y="3" width="499" height="677"/>
+	<SubTexture name="gfIdleOffset0002" x="505" y="3" width="499" height="677"/>
+	<SubTexture name="gfIdleOffset0003" x="1007" y="3" width="499" height="677"/>
+	<SubTexture name="gfIdleOffset0004" x="1509" y="3" width="499" height="677"/>
+	<SubTexture name="gfIdleOffset0005" x="2011" y="3" width="499" height="677"/>
+	<SubTexture name="gfIdleOffset0006" x="2513" y="3" width="499" height="677"/>
+	<SubTexture name="gfIdleOffset0007" x="3015" y="3" width="499" height="677"/>
+	<SubTexture name="gfIdleOffset0008" x="3015" y="3" width="499" height="677"/>
+	<SubTexture name="gfIdleOffset0009" x="3015" y="3" width="499" height="677"/>
+	<SubTexture name="gfIdleOffset0010" x="3517" y="3" width="499" height="677"/>
+	<SubTexture name="gfIdleOffset0011" x="3517" y="3" width="499" height="677"/>
+	<SubTexture name="gfIdleOffset0012" x="3517" y="3" width="499" height="677"/>
+	<SubTexture name="gfIdleOffset0013" x="3" y="683" width="499" height="677"/>
+	<SubTexture name="gfIdleOffset0014" x="3" y="683" width="499" height="677"/>
+	<SubTexture name="gfIdleOffset0015" x="505" y="683" width="499" height="677"/>
+	<SubTexture name="gfIdleOffset0016" x="505" y="683" width="499" height="677"/>
+	<SubTexture name="gfIdleOffset0017" x="1007" y="683" width="499" height="677"/>
+	<SubTexture name="gfIdleOffset0018" x="1509" y="683" width="499" height="677"/>
+	<SubTexture name="gfIdleOffset0019" x="2011" y="683" width="499" height="677"/>
+	<SubTexture name="gfIdleOffset0020" x="2513" y="683" width="499" height="677"/>
+	<SubTexture name="gfIdleOffset0021" x="3015" y="683" width="499" height="677"/>
+	<SubTexture name="gfIdleOffset0022" x="3517" y="683" width="499" height="677"/>
+	<SubTexture name="gfIdleOffset0023" x="3517" y="683" width="499" height="677"/>
+	<SubTexture name="gfIdleOffset0024" x="3517" y="683" width="499" height="677"/>
+	<SubTexture name="gfIdleOffset0025" x="3" y="1363" width="499" height="677"/>
+	<SubTexture name="gfIdleOffset0026" x="3" y="1363" width="499" height="677"/>
+	<SubTexture name="gfIdleOffset0027" x="3" y="1363" width="499" height="677"/>
+	<SubTexture name="gfIdleOffset0028" x="505" y="1363" width="499" height="677"/>
+	<SubTexture name="gfIdleOffset0029" x="505" y="1363" width="499" height="677"/>
+</TextureAtlas>

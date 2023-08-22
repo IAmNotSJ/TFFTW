@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "one dies",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/one-dies",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "one-danger",
+	"flip_x": true,
+	"healthbar_colors": [
+		118,
+		44,
+		180
+	],
+	"camera_position": [
+		-250,
+		-390
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

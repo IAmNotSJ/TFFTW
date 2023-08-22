@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Doombringer", "director", [310, 89, 83], "director"]
+	],
+
+	"weekCharacters": [
+		"host",
+		"bf-object",
+		"gf-object"
+	],
+	"weekBackground": "tsftw",
+
+	"storyName": "TSFTW",
+	"weekBefore": "week1",
+	"weekName": "Week Host",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

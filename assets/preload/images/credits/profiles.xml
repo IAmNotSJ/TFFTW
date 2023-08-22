@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="profiles.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="greeny" x="3" y="3" width="400" height="400"/>
+	<SubTexture name="jax" x="406" y="3" width="400" height="400"/>
+	<SubTexture name="lenny" x="809" y="3" width="400" height="400"/>
+	<SubTexture name="ryan" x="1212" y="3" width="400" height="400"/>
+	<SubTexture name="sj" x="3" y="406" width="400" height="400"/>
+	<SubTexture name="spoogles" x="406" y="406" width="400" height="400"/>
+	<SubTexture name="zeno" x="809" y="406" width="400" height="400"/>
+	<SubTexture name="zeph" x="1212" y="406" width="400" height="400"/>
+</TextureAtlas>

@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="one-angry.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="one angry down0000" x="3" y="3" width="283" height="545"/>
+	<SubTexture name="one angry down0001" x="3" y="3" width="283" height="545"/>
+	<SubTexture name="one angry down0002" x="289" y="3" width="283" height="545"/>
+	<SubTexture name="one angry down0003" x="289" y="3" width="283" height="545"/>
+	<SubTexture name="one angry down0004" x="575" y="3" width="283" height="545"/>
+	<SubTexture name="one angry down0005" x="575" y="3" width="283" height="545"/>
+	<SubTexture name="one angry down0006" x="575" y="3" width="283" height="545"/>
+	<SubTexture name="one angry down0007" x="575" y="3" width="283" height="545"/>
+	<SubTexture name="one angry down0008" x="575" y="3" width="283" height="545"/>
+	<SubTexture name="one angry down0009" x="575" y="3" width="283" height="545"/>
+	<SubTexture name="one angry down0010" x="575" y="3" width="283" height="545"/>
+	<SubTexture name="one angry down miss0000" x="861" y="3" width="291" height="522"/>
+	<SubTexture name="one angry down miss0001" x="1155" y="3" width="291" height="522"/>
+	<SubTexture name="one angry down miss0002" x="1155" y="3" width="291" height="522"/>
+	<SubTexture name="one angry down miss0003" x="1449" y="3" width="291" height="522"/>
+	<SubTexture name="one angry down miss0004" x="1449" y="3" width="291" height="522"/>
+	<SubTexture name="one angry down miss0005" x="1743" y="3" width="291" height="522"/>
+	<SubTexture name="one angry down miss0006" x="1743" y="3" width="291" height="522"/>
+	<SubTexture name="one angry down miss0007" x="1449" y="3" width="291" height="522"/>
+	<SubTexture name="one angry down miss0008" x="1449" y="3" width="291" height="522"/>
+	<SubTexture name="one angry down miss0009" x="1743" y="3" width="291" height="522"/>
+	<SubTexture name="one angry down miss0010" x="1743" y="3" width="291" height="522"/>
+	<SubTexture name="one angry down miss0011" x="1449" y="3" width="291" height="522"/>
+	<SubTexture name="one angry down miss0012" x="1449" y="3" width="291" height="522"/>
+	<SubTexture name="one angry down miss0013" x="1743" y="3" width="291" height="522"/>
+	<SubTexture name="one angry down miss0014" x="1743" y="3" width="291" height="522"/>
+	<SubTexture name="one angry down miss0015" x="1449" y="3" width="291" height="522"/>
+	<SubTexture name="one angry down miss0016" x="1449" y="3" width="291" height="522"/>
+	<SubTexture name="one angry down miss0017" x="1743" y="3" width="291" height="522"/>
+	<SubTexture name="one angry down miss0018" x="1743" y="3" width="291" height="522"/>
+	<SubTexture name="one angry down miss0019" x="1449" y="3" width="291" height="522"/>
+	<SubTexture name="one angry down miss0020" x="1449" y="3" width="291" height="522"/>
+	<SubTexture name="one angry down miss0021" x="1743" y="3" width="291" height="522"/>
+	<SubTexture name="one angry down miss0022" x="1743" y="3" width="291" height="522"/>
+	<SubTexture name="one angry idle0000" x="2037" y="3" width="269" height="535"/>
+	<SubTexture name="one angry idle0001" x="2037" y="3" width="269" height="535"/>
+	<SubTexture name="one angry idle0002" x="2309" y="3" width="269" height="535"/>
+	<SubTexture name="one angry idle0003" x="2309" y="3" width="269" height="535"/>
+	<SubTexture name="one angry idle0004" x="2581" y="3" width="269" height="535"/>
+	<SubTexture name="one angry idle0005" x="2581" y="3" width="269" height="535"/>
+	<SubTexture name="one angry idle0006" x="2581" y="3" width="269" height="535"/>
+	<SubTexture name="one angry idle0007" x="2853" y="3" width="269" height="535"/>
+	<SubTexture name="one angry idle0008" x="2853" y="3" width="269" height="535"/>
+	<SubTexture name="one angry idle0009" x="2853" y="3" width="269" height="535"/>
+	<SubTexture name="one angry idle0010" x="2853" y="3" width="269" height="535"/>
+	<SubTexture name="one angry idle0011" x="2853" y="3" width="269" height="535"/>
+	<SubTexture name="one angry idle0012" x="2853" y="3" width="269" height="535"/>
+	<SubTexture name="one angry idle0013" x="2853" y="3" width="269" height="535"/>
+	<SubTexture name="one angry left0000" x="3125" y="3" width="311" height="521"/>
+	<SubTexture name="one angry left0001" x="3125" y="3" width="311" height="521"/>
+	<SubTexture name="one angry left0002" x="3439" y="3" width="311" height="521"/>
+	<SubTexture name="one angry left0003" x="3439" y="3" width="311" height="521"/>
+	<SubTexture name="one angry left0004" x="3753" y="3" width="311" height="521"/>
+	<SubTexture name="one angry left0005" x="3753" y="3" width="311" height="521"/>
+	<SubTexture name="one angry left0006" x="3753" y="3" width="311" height="521"/>
+	<SubTexture name="one angry left0007" x="3753" y="3" width="311" height="521"/>
+	<SubTexture name="one angry left0008" x="3753" y="3" width="311" height="521"/>
+	<SubTexture name="one angry left0009" x="3753" y="3" width="311" height="521"/>
+	<SubTexture name="one angry left0010" x="3753" y="3" width="311" height="521"/>
+	<SubTexture name="one angry left miss0000" x="3" y="551" width="315" height="520"/>
+	<SubTexture name="one angry left miss0001" x="321" y="551" width="315" height="520"/>
+	<SubTexture name="one angry left miss0002" x="321" y="551" width="315" height="520"/>
+	<SubTexture name="one angry left miss0003" x="639" y="551" width="315" height="520"/>
+	<SubTexture name="one angry left miss0004" x="639" y="551" width="315" height="520"/>
+	<SubTexture name="one angry left miss0005" x="957" y="551" width="315" height="520"/>
+	<SubTexture name="one angry left miss0006" x="957" y="551" width="315" height="520"/>
+	<SubTexture name="one angry left miss0007" x="639" y="551" width="315" height="520"/>
+	<SubTexture name="one angry left miss0008" x="639" y="551" width="315" height="520"/>
+	<SubTexture name="one angry left miss0009" x="957" y="551" width="315" height="520"/>
+	<SubTexture name="one angry left miss0010" x="957" y="551" width="315" height="520"/>
+	<SubTexture name="one angry left miss0011" x="639" y="551" width="315" height="520"/>
+	<SubTexture name="one angry left miss0012" x="639" y="551" width="315" height="520"/>
+	<SubTexture name="one angry left miss0013" x="957" y="551" width="315" height="520"/>
+	<SubTexture name="one angry left miss0014" x="957" y="551" width="315" height="520"/>
+	<SubTexture name="one angry left miss0015" x="639" y="551" width="315" height="520"/>
+	<SubTexture name="one angry left miss0016" x="639" y="551" width="315" height="520"/>
+	<SubTexture name="one angry left miss0017" x="957" y="551" width="315" height="520"/>
+	<SubTexture name="one angry left miss0018" x="957" y="551" width="315" height="520"/>
+	<SubTexture name="one angry left miss0019" x="639" y="551" width="315" height="520"/>
+	<SubTexture name="one angry left miss0020" x="639" y="551" width="315" height="520"/>
+	<SubTexture name="one angry left miss0021" x="957" y="551" width="315" height="520"/>
+	<SubTexture name="one angry left miss0022" x="957" y="551" width="315" height="520"/>
+	<SubTexture name="one angry left miss0023" x="639" y="551" width="315" height="520"/>
+	<SubTexture name="one angry left miss0024" x="639" y="551" width="315" height="520"/>
+	<SubTexture name="one angry left miss0025" x="957" y="551" width="315" height="520"/>
+	<SubTexture name="one angry left miss0026" x="957" y="551" width="315" height="520"/>
+	<SubTexture name="one angry left miss0027" x="639" y="551" width="315" height="520"/>
+	<SubTexture name="one angry left miss0028" x="639" y="551" width="315" height="520"/>
+	<SubTexture name="one angry left miss0029" x="957" y="551" width="315" height="520"/>
+	<SubTexture name="one angry left miss0030" x="957" y="551" width="315" height="520"/>
+	<SubTexture name="one angry left miss0031" x="639" y="551" width="315" height="520"/>
+	<SubTexture name="one angry right0000" x="1275" y="551" width="280" height="520"/>
+	<SubTexture name="one angry right0001" x="1275" y="551" width="280" height="520"/>
+	<SubTexture name="one angry right0002" x="1558" y="551" width="280" height="520"/>
+	<SubTexture name="one angry right0003" x="1558" y="551" width="280" height="520"/>
+	<SubTexture name="one angry right0004" x="1841" y="551" width="280" height="520"/>
+	<SubTexture name="one angry right0005" x="1841" y="551" width="280" height="520"/>
+	<SubTexture name="one angry right0006" x="1841" y="551" width="280" height="520"/>
+	<SubTexture name="one angry right miss0000" x="2124" y="551" width="279" height="521"/>
+	<SubTexture name="one angry right miss0001" x="2406" y="551" width="279" height="521"/>
+	<SubTexture name="one angry right miss0002" x="2406" y="551" width="279" height="521"/>
+	<SubTexture name="one angry right miss0003" x="2688" y="551" width="279" height="521"/>
+	<SubTexture name="one angry right miss0004" x="2688" y="551" width="279" height="521"/>
+	<SubTexture name="one angry right miss0005" x="2970" y="551" width="279" height="521"/>
+	<SubTexture name="one angry right miss0006" x="2970" y="551" width="279" height="521"/>
+	<SubTexture name="one angry right miss0007" x="2688" y="551" width="279" height="521"/>
+	<SubTexture name="one angry right miss0008" x="2688" y="551" width="279" height="521"/>
+	<SubTexture name="one angry right miss0009" x="2970" y="551" width="279" height="521"/>
+	<SubTexture name="one angry right miss0010" x="2970" y="551" width="279" height="521"/>
+	<SubTexture name="one angry right miss0011" x="2688" y="551" width="279" height="521"/>
+	<SubTexture name="one angry right miss0012" x="2688" y="551" width="279" height="521"/>
+	<SubTexture name="one angry right miss0013" x="2970" y="551" width="279" height="521"/>
+	<SubTexture name="one angry right miss0014" x="2970" y="551" width="279" height="521"/>
+	<SubTexture name="one angry right miss0015" x="2688" y="551" width="279" height="521"/>
+	<SubTexture name="one angry right miss0016" x="2688" y="551" width="279" height="521"/>
+	<SubTexture name="one angry right miss0017" x="2970" y="551" width="279" height="521"/>
+	<SubTexture name="one angry right miss0018" x="2970" y="551" width="279" height="521"/>
+	<SubTexture name="one angry right miss0019" x="2688" y="551" width="279" height="521"/>
+	<SubTexture name="one angry right miss0020" x="2688" y="551" width="279" height="521"/>
+	<SubTexture name="one angry right miss0021" x="2970" y="551" width="279" height="521"/>
+	<SubTexture name="one angry right miss0022" x="2970" y="551" width="279" height="521"/>
+	<SubTexture name="one angry right miss0023" x="2688" y="551" width="279" height="521"/>
+	<SubTexture name="one angry right miss0024" x="2688" y="551" width="279" height="521"/>
+	<SubTexture name="one angry right miss0025" x="2970" y="551" width="279" height="521"/>
+	<SubTexture name="one angry right miss0026" x="2970" y="551" width="279" height="521"/>
+	<SubTexture name="one angry right miss0027" x="2688" y="551" width="279" height="521"/>
+	<SubTexture name="one angry right miss0028" x="2688" y="551" width="279" height="521"/>
+	<SubTexture name="one angry right miss0029" x="2970" y="551" width="279" height="521"/>
+	<SubTexture name="one angry right miss0030" x="2970" y="551" width="279" height="521"/>
+	<SubTexture name="one angry right miss0031" x="2688" y="551" width="279" height="521"/>
+	<SubTexture name="one angry right miss0032" x="2688" y="551" width="279" height="521"/>
+	<SubTexture name="one angry right miss0033" x="2970" y="551" width="279" height="521"/>
+	<SubTexture name="one angry right miss0034" x="2970" y="551" width="279" height="521"/>
+	<SubTexture name="one angry right miss0035" x="2688" y="551" width="279" height="521"/>
+	<SubTexture name="one angry right miss0036" x="2688" y="551" width="279" height="521"/>
+	<SubTexture name="one angry right miss0037" x="2970" y="551" width="279" height="521"/>
+	<SubTexture name="one angry right miss0038" x="2970" y="551" width="279" height="521"/>
+	<SubTexture name="one angry up0000" x="3252" y="551" width="268" height="552"/>
+	<SubTexture name="one angry up0001" x="3252" y="551" width="268" height="552"/>
+	<SubTexture name="one angry up0002" x="3523" y="551" width="268" height="552"/>
+	<SubTexture name="one angry up0003" x="3523" y="551" width="268" height="552"/>
+	<SubTexture name="one angry up0004" x="3794" y="551" width="268" height="552"/>
+	<SubTexture name="one angry up0005" x="3794" y="551" width="268" height="552"/>
+	<SubTexture name="one angry up0006" x="3794" y="551" width="268" height="552"/>
+	<SubTexture name="one angry up0007" x="3794" y="551" width="268" height="552"/>
+	<SubTexture name="one angry up0008" x="3794" y="551" width="268" height="552"/>
+	<SubTexture name="one angry up0009" x="3794" y="551" width="268" height="552"/>
+	<SubTexture name="one angry up0010" x="3794" y="551" width="268" height="552"/>
+	<SubTexture name="one angry up miss0000" x="3" y="1106" width="272" height="517"/>
+	<SubTexture name="one angry up miss0001" x="278" y="1106" width="272" height="517"/>
+	<SubTexture name="one angry up miss0002" x="278" y="1106" width="272" height="517"/>
+	<SubTexture name="one angry up miss0003" x="553" y="1106" width="272" height="517"/>
+	<SubTexture name="one angry up miss0004" x="553" y="1106" width="272" height="517"/>
+	<SubTexture name="one angry up miss0005" x="828" y="1106" width="272" height="517"/>
+	<SubTexture name="one angry up miss0006" x="828" y="1106" width="272" height="517"/>
+	<SubTexture name="one angry up miss0007" x="553" y="1106" width="272" height="517"/>
+	<SubTexture name="one angry up miss0008" x="553" y="1106" width="272" height="517"/>
+	<SubTexture name="one angry up miss0009" x="828" y="1106" width="272" height="517"/>
+	<SubTexture name="one angry up miss0010" x="828" y="1106" width="272" height="517"/>
+</TextureAtlas>

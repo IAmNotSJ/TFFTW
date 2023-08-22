@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SIX.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SIX0000" x="3" y="3" width="388" height="501"/>
+	<SubTexture name="SIX0001" x="3" y="3" width="388" height="501"/>
+	<SubTexture name="SIX0002" x="394" y="3" width="388" height="501"/>
+	<SubTexture name="SIX0003" x="394" y="3" width="388" height="501"/>
+	<SubTexture name="SIX0004" x="3" y="507" width="388" height="501"/>
+	<SubTexture name="SIX0005" x="3" y="507" width="388" height="501"/>
+	<SubTexture name="SIX0006" x="394" y="507" width="388" height="501"/>
+	<SubTexture name="SIX0007" x="394" y="507" width="388" height="501"/>
+	<SubTexture name="SIX0008" x="394" y="507" width="388" height="501"/>
+	<SubTexture name="SIX0009" x="394" y="507" width="388" height="501"/>
+	<SubTexture name="SIX0010" x="394" y="507" width="388" height="501"/>
+	<SubTexture name="SIX0011" x="394" y="507" width="388" height="501"/>
+	<SubTexture name="SIX0012" x="394" y="507" width="388" height="501"/>
+	<SubTexture name="SIX0013" x="394" y="507" width="388" height="501"/>
+</TextureAtlas>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="director.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="director down0000" x="0" y="0" width="519" height="636"/>
+	<SubTexture name="director down0001" x="522" y="0" width="519" height="636"/>
+	<SubTexture name="director down0002" x="1044" y="0" width="519" height="636"/>
+	<SubTexture name="director idle0000" x="1566" y="0" width="519" height="636"/>
+	<SubTexture name="director idle0001" x="2088" y="0" width="519" height="636"/>
+	<SubTexture name="director idle0002" x="2610" y="0" width="519" height="636"/>
+	<SubTexture name="director left0000" x="3132" y="0" width="519" height="636"/>
+	<SubTexture name="director left0001" x="0" y="639" width="519" height="636"/>
+	<SubTexture name="director left0002" x="522" y="639" width="519" height="636"/>
+	<SubTexture name="director right0000" x="1044" y="639" width="519" height="636"/>
+	<SubTexture name="director right0001" x="1566" y="639" width="519" height="636"/>
+	<SubTexture name="director right0002" x="2088" y="639" width="519" height="636"/>
+	<SubTexture name="director up0000" x="2610" y="639" width="519" height="636"/>
+	<SubTexture name="director up0001" x="3132" y="639" width="519" height="636"/>
+	<SubTexture name="director up0002" x="0" y="1278" width="519" height="636"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cork.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cork0000" x="0" y="0" width="407" height="343"/>
+	<SubTexture name="cork0001" x="0" y="0" width="407" height="343"/>
+	<SubTexture name="cork0002" x="410" y="0" width="407" height="343"/>
+	<SubTexture name="cork0003" x="410" y="0" width="407" height="343"/>
+	<SubTexture name="cork0004" x="0" y="346" width="407" height="343"/>
+	<SubTexture name="cork0005" x="0" y="346" width="407" height="343"/>
+	<SubTexture name="cork0006" x="0" y="346" width="407" height="343"/>
+	<SubTexture name="cork0007" x="410" y="346" width="407" height="343"/>
+	<SubTexture name="cork0008" x="410" y="346" width="407" height="343"/>
+	<SubTexture name="cork0009" x="410" y="346" width="407" height="343"/>
+	<SubTexture name="cork0010" x="410" y="346" width="407" height="343"/>
+	<SubTexture name="cork0011" x="410" y="346" width="407" height="343"/>
+	<SubTexture name="cork0012" x="410" y="346" width="407" height="343"/>
+	<SubTexture name="cork0013" x="410" y="346" width="407" height="343"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="star old.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="star old0000" x="0" y="0" width="166" height="159"/>
+	<SubTexture name="star old0001" x="0" y="0" width="166" height="159"/>
+	<SubTexture name="star old0002" x="169" y="0" width="166" height="159"/>
+	<SubTexture name="star old0003" x="169" y="0" width="166" height="159"/>
+	<SubTexture name="star old0004" x="338" y="0" width="166" height="159"/>
+	<SubTexture name="star old0005" x="338" y="0" width="166" height="159"/>
+	<SubTexture name="star old0006" x="0" y="162" width="166" height="159"/>
+	<SubTexture name="star old0007" x="0" y="162" width="166" height="159"/>
+	<SubTexture name="star old0008" x="0" y="162" width="166" height="159"/>
+	<SubTexture name="star old0009" x="0" y="162" width="166" height="159"/>
+	<SubTexture name="star old0010" x="0" y="162" width="166" height="159"/>
+	<SubTexture name="star old0011" x="0" y="162" width="166" height="159"/>
+	<SubTexture name="star old0012" x="0" y="162" width="166" height="159"/>
+	<SubTexture name="star old0013" x="0" y="162" width="166" height="159"/>
+</TextureAtlas>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="THREE.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="THREE0000" x="0" y="0" width="325" height="363"/>
+	<SubTexture name="THREE0001" x="0" y="0" width="325" height="363"/>
+	<SubTexture name="THREE0002" x="328" y="0" width="325" height="363"/>
+	<SubTexture name="THREE0003" x="328" y="0" width="325" height="363"/>
+	<SubTexture name="THREE0004" x="656" y="0" width="325" height="363"/>
+	<SubTexture name="THREE0005" x="656" y="0" width="325" height="363"/>
+	<SubTexture name="THREE0006" x="984" y="0" width="325" height="363"/>
+	<SubTexture name="THREE0007" x="984" y="0" width="325" height="363"/>
+	<SubTexture name="THREE0008" x="984" y="0" width="325" height="363"/>
+	<SubTexture name="THREE0009" x="984" y="0" width="325" height="363"/>
+	<SubTexture name="THREE0010" x="984" y="0" width="325" height="363"/>
+	<SubTexture name="THREE0011" x="984" y="0" width="325" height="363"/>
+	<SubTexture name="THREE0012" x="984" y="0" width="325" height="363"/>
+	<SubTexture name="THREE0013" x="984" y="0" width="325" height="363"/>
+	<SubTexture name="THREE fire0000" x="0" y="366" width="1226" height="554"/>
+	<SubTexture name="THREE fire0001" x="0" y="366" width="1226" height="554"/>
+	<SubTexture name="THREE fire0002" x="0" y="923" width="1226" height="554"/>
+	<SubTexture name="THREE fire0003" x="0" y="923" width="1226" height="554"/>
+	<SubTexture name="THREE fire0004" x="0" y="1480" width="1226" height="554"/>
+	<SubTexture name="THREE fire0005" x="0" y="1480" width="1226" height="554"/>
+	<SubTexture name="THREE fire0006" x="0" y="2037" width="1226" height="554"/>
+	<SubTexture name="THREE fire0007" x="0" y="2037" width="1226" height="554"/>
+	<SubTexture name="THREE fire0008" x="0" y="2037" width="1226" height="554"/>
+</TextureAtlas>

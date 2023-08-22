@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="laser.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="laser0000" x="0" y="0" width="464" height="452"/>
+	<SubTexture name="laser0001" x="0" y="0" width="464" height="452"/>
+	<SubTexture name="laser0002" x="467" y="0" width="464" height="452"/>
+	<SubTexture name="laser0003" x="467" y="0" width="464" height="452"/>
+	<SubTexture name="laser0004" x="0" y="455" width="464" height="452"/>
+	<SubTexture name="laser0005" x="0" y="455" width="464" height="452"/>
+</TextureAtlas>

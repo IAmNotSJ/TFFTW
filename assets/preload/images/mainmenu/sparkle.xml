@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sparkle.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sparkle glow0000" x="3" y="3" width="30" height="25"/>
+	<SubTexture name="sparkle glow0001" x="3" y="3" width="30" height="25"/>
+	<SubTexture name="sparkle glow0002" x="36" y="3" width="30" height="25"/>
+	<SubTexture name="sparkle glow0003" x="36" y="3" width="30" height="25"/>
+	<SubTexture name="sparkle glow0004" x="69" y="3" width="30" height="25"/>
+	<SubTexture name="sparkle glow0005" x="69" y="3" width="30" height="25"/>
+	<SubTexture name="sparkle glow0006" x="3" y="31" width="30" height="25"/>
+	<SubTexture name="sparkle glow0007" x="3" y="31" width="30" height="25"/>
+	<SubTexture name="sparkle glow0008" x="36" y="31" width="30" height="25"/>
+	<SubTexture name="sparkle glow0009" x="36" y="31" width="30" height="25"/>
+	<SubTexture name="sparkle glow0010" x="69" y="31" width="30" height="25"/>
+	<SubTexture name="sparkle glow0011" x="69" y="31" width="30" height="25"/>
+	<SubTexture name="sparkle glow0012" x="3" y="59" width="30" height="25"/>
+	<SubTexture name="sparkle glow0013" x="3" y="59" width="30" height="25"/>
+	<SubTexture name="sparkle glow0014" x="36" y="59" width="30" height="25"/>
+	<SubTexture name="sparkle glow0015" x="36" y="59" width="30" height="25"/>
+	<SubTexture name="sparkle glow0016" x="69" y="59" width="30" height="25"/>
+</TextureAtlas>

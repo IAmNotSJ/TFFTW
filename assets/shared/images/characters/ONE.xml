@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ONE.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ONE angry defend0000" x="0" y="0" width="614" height="380"/>
+	<SubTexture name="ONE angry defend0001" x="0" y="0" width="614" height="380"/>
+	<SubTexture name="ONE angry defend0002" x="617" y="0" width="614" height="380"/>
+	<SubTexture name="ONE angry defend0003" x="617" y="0" width="614" height="380"/>
+	<SubTexture name="ONE angry defend0004" x="1234" y="0" width="614" height="380"/>
+	<SubTexture name="ONE angry defend0005" x="1234" y="0" width="614" height="380"/>
+	<SubTexture name="ONE angry defend0006" x="1851" y="0" width="614" height="380"/>
+	<SubTexture name="ONE angry defend0007" x="1851" y="0" width="614" height="380"/>
+	<SubTexture name="ONE angry defend0008" x="2468" y="0" width="614" height="380"/>
+	<SubTexture name="ONE angry defend0009" x="2468" y="0" width="614" height="380"/>
+	<SubTexture name="ONE angry defend0010" x="2468" y="0" width="614" height="380"/>
+	<SubTexture name="ONE angry defend0011" x="2468" y="0" width="614" height="380"/>
+	<SubTexture name="ONE angry defend0012" x="2468" y="0" width="614" height="380"/>
+	<SubTexture name="ONE angry defend0013" x="2468" y="0" width="614" height="380"/>
+	<SubTexture name="ONE angry defend0014" x="2468" y="0" width="614" height="380"/>
+	<SubTexture name="ONE angry defend0015" x="3085" y="0" width="614" height="380"/>
+	<SubTexture name="ONE angry defend0016" x="3085" y="0" width="614" height="380"/>
+	<SubTexture name="ONE angry defend0017" x="0" y="383" width="614" height="380"/>
+	<SubTexture name="ONE angry defend0018" x="0" y="383" width="614" height="380"/>
+	<SubTexture name="ONE angry defend0019" x="617" y="383" width="614" height="380"/>
+	<SubTexture name="ONE angry defend0020" x="617" y="383" width="614" height="380"/>
+	<SubTexture name="ONE angry defend0021" x="1234" y="383" width="614" height="380"/>
+	<SubTexture name="ONE angry defend0022" x="1234" y="383" width="614" height="380"/>
+	<SubTexture name="ONE angry defend0023" x="1234" y="383" width="614" height="380"/>
+	<SubTexture name="ONE angry defend0024" x="1234" y="383" width="614" height="380"/>
+	<SubTexture name="ONE angry defend0025" x="1851" y="383" width="614" height="380"/>
+	<SubTexture name="ONE angry defend0026" x="1851" y="383" width="614" height="380"/>
+	<SubTexture name="ONE angry defend0027" x="1234" y="383" width="614" height="380"/>
+	<SubTexture name="ONE angry defend0028" x="1234" y="383" width="614" height="380"/>
+	<SubTexture name="ONE angry defend0029" x="1851" y="383" width="614" height="380"/>
+	<SubTexture name="ONE angry defend0030" x="1851" y="383" width="614" height="380"/>
+	<SubTexture name="ONE angry defend0031" x="1234" y="383" width="614" height="380"/>
+	<SubTexture name="ONE angry defend0032" x="1234" y="383" width="614" height="380"/>
+	<SubTexture name="ONE angry defend0033" x="1851" y="383" width="614" height="380"/>
+	<SubTexture name="ONE angry defend0034" x="1851" y="383" width="614" height="380"/>
+	<SubTexture name="ONE angry defend0035" x="1234" y="383" width="614" height="380"/>
+	<SubTexture name="ONE angry defend0036" x="1234" y="383" width="614" height="380"/>
+	<SubTexture name="ONE angry defend0037" x="1851" y="383" width="614" height="380"/>
+	<SubTexture name="ONE angry defend0038" x="1851" y="383" width="614" height="380"/>
+	<SubTexture name="ONE angry down0000" x="2468" y="383" width="614" height="380"/>
+	<SubTexture name="ONE angry down0001" x="2468" y="383" width="614" height="380"/>
+	<SubTexture name="ONE angry down0002" x="3085" y="383" width="614" height="380"/>
+	<SubTexture name="ONE angry down0003" x="3085" y="383" width="614" height="380"/>
+	<SubTexture name="ONE angry down0004" x="0" y="766" width="614" height="380"/>
+	<SubTexture name="ONE angry down0005" x="0" y="766" width="614" height="380"/>
+	<SubTexture name="ONE angry down0006" x="0" y="766" width="614" height="380"/>
+	<SubTexture name="ONE angry down0007" x="0" y="766" width="614" height="380"/>
+	<SubTexture name="ONE angry down0008" x="0" y="766" width="614" height="380"/>
+	<SubTexture name="ONE angry down0009" x="0" y="766" width="614" height="380"/>
+	<SubTexture name="ONE angry down0010" x="0" y="766" width="614" height="380"/>
+	<SubTexture name="ONE angry idle0000" x="617" y="766" width="614" height="380"/>
+	<SubTexture name="ONE angry idle0001" x="617" y="766" width="614" height="380"/>
+	<SubTexture name="ONE angry idle0002" x="1234" y="766" width="614" height="380"/>
+	<SubTexture name="ONE angry idle0003" x="1234" y="766" width="614" height="380"/>
+	<SubTexture name="ONE angry idle0004" x="1851" y="766" width="614" height="380"/>
+	<SubTexture name="ONE angry idle0005" x="1851" y="766" width="614" height="380"/>
+	<SubTexture name="ONE angry idle0006" x="1851" y="766" width="614" height="380"/>
+	<SubTexture name="ONE angry idle0007" x="1851" y="766" width="614" height="380"/>
+	<SubTexture name="ONE angry idle0008" x="1851" y="766" width="614" height="380"/>
+	<SubTexture name="ONE angry idle0009" x="1851" y="766" width="614" height="380"/>
+	<SubTexture name="ONE angry left0000" x="2468" y="766" width="614" height="380"/>
+	<SubTexture name="ONE angry left0001" x="2468" y="766" width="614" height="380"/>
+	<SubTexture name="ONE angry left0002" x="3085" y="766" width="614" height="380"/>
+	<SubTexture name="ONE angry left0003" x="3085" y="766" width="614" height="380"/>
+	<SubTexture name="ONE angry left0004" x="0" y="1149" width="614" height="380"/>
+	<SubTexture name="ONE angry left0005" x="0" y="1149" width="614" height="380"/>
+	<SubTexture name="ONE angry left0006" x="0" y="1149" width="614" height="380"/>
+	<SubTexture name="ONE angry left0007" x="0" y="1149" width="614" height="380"/>
+	<SubTexture name="ONE angry left0008" x="0" y="1149" width="614" height="380"/>
+	<SubTexture name="ONE angry left0009" x="0" y="1149" width="614" height="380"/>
+	<SubTexture name="ONE angry left0010" x="0" y="1149" width="614" height="380"/>
+	<SubTexture name="ONE angry right0000" x="617" y="1149" width="614" height="380"/>
+	<SubTexture name="ONE angry right0001" x="617" y="1149" width="614" height="380"/>
+	<SubTexture name="ONE angry right0002" x="1234" y="1149" width="614" height="380"/>
+	<SubTexture name="ONE angry right0003" x="1851" y="1149" width="614" height="380"/>
+	<SubTexture name="ONE angry right0004" x="2468" y="1149" width="614" height="380"/>
+	<SubTexture name="ONE angry right0005" x="3085" y="1149" width="614" height="380"/>
+	<SubTexture name="ONE angry right0006" x="2468" y="1149" width="614" height="380"/>
+	<SubTexture name="ONE angry right0007" x="2468" y="1149" width="614" height="380"/>
+	<SubTexture name="ONE angry right0008" x="3085" y="1149" width="614" height="380"/>
+	<SubTexture name="ONE angry right0009" x="2468" y="1149" width="614" height="380"/>
+	<SubTexture name="ONE angry right0010" x="2468" y="1149" width="614" height="380"/>
+	<SubTexture name="ONE angry right0011" x="3085" y="1149" width="614" height="380"/>
+	<SubTexture name="ONE angry right0012" x="2468" y="1149" width="614" height="380"/>
+	<SubTexture name="ONE angry right0013" x="2468" y="1149" width="614" height="380"/>
+	<SubTexture name="ONE angry up0000" x="0" y="1532" width="614" height="380"/>
+	<SubTexture name="ONE angry up0001" x="0" y="1532" width="614" height="380"/>
+	<SubTexture name="ONE angry up0002" x="617" y="1532" width="614" height="380"/>
+	<SubTexture name="ONE angry up0003" x="617" y="1532" width="614" height="380"/>
+	<SubTexture name="ONE angry up0004" x="1234" y="1532" width="614" height="380"/>
+	<SubTexture name="ONE angry up0005" x="1234" y="1532" width="614" height="380"/>
+	<SubTexture name="ONE angry up0006" x="1234" y="1532" width="614" height="380"/>
+	<SubTexture name="ONE angry up0007" x="1234" y="1532" width="614" height="380"/>
+	<SubTexture name="ONE angry up0008" x="1234" y="1532" width="614" height="380"/>
+	<SubTexture name="ONE angry up0009" x="1234" y="1532" width="614" height="380"/>
+	<SubTexture name="ONE angry up0010" x="1234" y="1532" width="614" height="380"/>
+	<SubTexture name="ONE angry up alt0000" x="1851" y="1532" width="614" height="380"/>
+	<SubTexture name="ONE angry up alt0001" x="1851" y="1532" width="614" height="380"/>
+	<SubTexture name="ONE angry up alt0002" x="2468" y="1532" width="614" height="380"/>
+	<SubTexture name="ONE angry up alt0003" x="2468" y="1532" width="614" height="380"/>
+	<SubTexture name="ONE angry up alt0004" x="3085" y="1532" width="614" height="380"/>
+	<SubTexture name="ONE angry up alt0005" x="3085" y="1532" width="614" height="380"/>
+	<SubTexture name="ONE angry up alt0006" x="0" y="1915" width="614" height="380"/>
+	<SubTexture name="ONE angry up alt0007" x="0" y="1915" width="614" height="380"/>
+	<SubTexture name="ONE angry up alt0008" x="3085" y="1532" width="614" height="380"/>
+	<SubTexture name="ONE angry up alt0009" x="3085" y="1532" width="614" height="380"/>
+	<SubTexture name="ONE angry up alt0010" x="0" y="1915" width="614" height="380"/>
+	<SubTexture name="ONE angry up alt0011" x="0" y="1915" width="614" height="380"/>
+	<SubTexture name="ONE angry up alt0012" x="3085" y="1532" width="614" height="380"/>
+	<SubTexture name="ONE angry up alt0013" x="3085" y="1532" width="614" height="380"/>
+	<SubTexture name="ONE down0000" x="617" y="1915" width="614" height="380"/>
+	<SubTexture name="ONE down0001" x="617" y="1915" width="614" height="380"/>
+	<SubTexture name="ONE down0002" x="1234" y="1915" width="614" height="380"/>
+	<SubTexture name="ONE down0003" x="1234" y="1915" width="614" height="380"/>
+	<SubTexture name="ONE down0004" x="1851" y="1915" width="614" height="380"/>
+	<SubTexture name="ONE down0005" x="1851" y="1915" width="614" height="380"/>
+	<SubTexture name="ONE down0006" x="1851" y="1915" width="614" height="380"/>
+	<SubTexture name="ONE down0007" x="1851" y="1915" width="614" height="380"/>
+	<SubTexture name="ONE down0008" x="1851" y="1915" width="614" height="380"/>
+	<SubTexture name="ONE down0009" x="1851" y="1915" width="614" height="380"/>
+	<SubTexture name="ONE down0010" x="1851" y="1915" width="614" height="380"/>
+	<SubTexture name="ONE idle0000" x="2468" y="1915" width="614" height="380"/>
+	<SubTexture name="ONE idle0001" x="2468" y="1915" width="614" height="380"/>
+	<SubTexture name="ONE idle0002" x="3085" y="1915" width="614" height="380"/>
+	<SubTexture name="ONE idle0003" x="3085" y="1915" width="614" height="380"/>
+	<SubTexture name="ONE idle0004" x="0" y="2298" width="614" height="380"/>
+	<SubTexture name="ONE idle0005" x="0" y="2298" width="614" height="380"/>
+	<SubTexture name="ONE idle0006" x="0" y="2298" width="614" height="380"/>
+	<SubTexture name="ONE idle0007" x="0" y="2298" width="614" height="380"/>
+	<SubTexture name="ONE idle0008" x="0" y="2298" width="614" height="380"/>
+	<SubTexture name="ONE idle0009" x="0" y="2298" width="614" height="380"/>
+	<SubTexture name="ONE idle0010" x="0" y="2298" width="614" height="380"/>
+	<SubTexture name="ONE idle0011" x="0" y="2298" width="614" height="380"/>
+	<SubTexture name="ONE idle0012" x="0" y="2298" width="614" height="380"/>
+	<SubTexture name="ONE idle0013" x="0" y="2298" width="614" height="380"/>
+	<SubTexture name="ONE left0000" x="617" y="2298" width="614" height="380"/>
+	<SubTexture name="ONE left0001" x="617" y="2298" width="614" height="380"/>
+	<SubTexture name="ONE left0002" x="1234" y="2298" width="614" height="380"/>
+	<SubTexture name="ONE left0003" x="1234" y="2298" width="614" height="380"/>
+	<SubTexture name="ONE left0004" x="1851" y="2298" width="614" height="380"/>
+	<SubTexture name="ONE left0005" x="1851" y="2298" width="614" height="380"/>
+	<SubTexture name="ONE left0006" x="1851" y="2298" width="614" height="380"/>
+	<SubTexture name="ONE left0007" x="1851" y="2298" width="614" height="380"/>
+	<SubTexture name="ONE left0008" x="1851" y="2298" width="614" height="380"/>
+	<SubTexture name="ONE left0009" x="1851" y="2298" width="614" height="380"/>
+	<SubTexture name="ONE left0010" x="1851" y="2298" width="614" height="380"/>
+	<SubTexture name="ONE right0000" x="2468" y="2298" width="614" height="380"/>
+	<SubTexture name="ONE right0001" x="2468" y="2298" width="614" height="380"/>
+	<SubTexture name="ONE right0002" x="3085" y="2298" width="614" height="380"/>
+	<SubTexture name="ONE right0003" x="3085" y="2298" width="614" height="380"/>
+	<SubTexture name="ONE right0004" x="0" y="2681" width="614" height="380"/>
+	<SubTexture name="ONE right0005" x="0" y="2681" width="614" height="380"/>
+	<SubTexture name="ONE right0006" x="0" y="2681" width="614" height="380"/>
+	<SubTexture name="ONE right0007" x="0" y="2681" width="614" height="380"/>
+	<SubTexture name="ONE right0008" x="0" y="2681" width="614" height="380"/>
+	<SubTexture name="ONE right0009" x="0" y="2681" width="614" height="380"/>
+	<SubTexture name="ONE right0010" x="0" y="2681" width="614" height="380"/>
+	<SubTexture name="ONE up0000" x="617" y="2681" width="614" height="380"/>
+	<SubTexture name="ONE up0001" x="617" y="2681" width="614" height="380"/>
+	<SubTexture name="ONE up0002" x="1234" y="2681" width="614" height="380"/>
+	<SubTexture name="ONE up0003" x="1234" y="2681" width="614" height="380"/>
+	<SubTexture name="ONE up0004" x="1851" y="2681" width="614" height="380"/>
+	<SubTexture name="ONE up0005" x="1851" y="2681" width="614" height="380"/>
+	<SubTexture name="ONE up0006" x="1851" y="2681" width="614" height="380"/>
+	<SubTexture name="ONE up0007" x="1851" y="2681" width="614" height="380"/>
+	<SubTexture name="ONE up0008" x="1851" y="2681" width="614" height="380"/>
+	<SubTexture name="ONE up0009" x="1851" y="2681" width="614" height="380"/>
+	<SubTexture name="ONE up0010" x="1851" y="2681" width="614" height="380"/>
+</TextureAtlas>

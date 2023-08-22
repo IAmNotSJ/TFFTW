@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="director-trans.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="director trans 10000" x="0" y="0" width="519" height="636"/>
+	<SubTexture name="director trans 10001" x="522" y="0" width="519" height="636"/>
+	<SubTexture name="director trans 10002" x="1044" y="0" width="519" height="636"/>
+	<SubTexture name="director trans 10003" x="0" y="0" width="519" height="636"/>
+	<SubTexture name="director trans 10004" x="522" y="0" width="519" height="636"/>
+	<SubTexture name="director trans 10005" x="1044" y="0" width="519" height="636"/>
+	<SubTexture name="director trans 10006" x="0" y="0" width="519" height="636"/>
+	<SubTexture name="director trans 10007" x="522" y="0" width="519" height="636"/>
+	<SubTexture name="director trans 10008" x="0" y="639" width="519" height="636"/>
+	<SubTexture name="director trans 10009" x="522" y="639" width="519" height="636"/>
+	<SubTexture name="director trans 10010" x="1044" y="639" width="519" height="636"/>
+	<SubTexture name="director trans 10011" x="0" y="1278" width="519" height="636"/>
+	<SubTexture name="director trans 10012" x="522" y="1278" width="519" height="636"/>
+	<SubTexture name="director trans 10013" x="522" y="1278" width="519" height="636"/>
+	<SubTexture name="director trans 10014" x="1044" y="1278" width="519" height="636"/>
+	<SubTexture name="director trans 10015" x="1044" y="1278" width="519" height="636"/>
+	<SubTexture name="director trans 10016" x="1044" y="1278" width="519" height="636"/>
+</TextureAtlas>

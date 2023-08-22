@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bangsnaps.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bangsnaps0000" x="0" y="0" width="92" height="159"/>
+	<SubTexture name="bangsnaps0001" x="0" y="0" width="92" height="159"/>
+	<SubTexture name="bangsnaps0002" x="95" y="0" width="92" height="159"/>
+	<SubTexture name="bangsnaps0003" x="95" y="0" width="92" height="159"/>
+	<SubTexture name="bangsnaps0004" x="190" y="0" width="92" height="159"/>
+	<SubTexture name="bangsnaps0005" x="190" y="0" width="92" height="159"/>
+	<SubTexture name="bangsnaps0006" x="285" y="0" width="92" height="159"/>
+	<SubTexture name="bangsnaps0007" x="285" y="0" width="92" height="159"/>
+	<SubTexture name="bangsnaps0008" x="285" y="0" width="92" height="159"/>
+	<SubTexture name="bangsnaps0009" x="285" y="0" width="92" height="159"/>
+	<SubTexture name="bangsnaps0010" x="285" y="0" width="92" height="159"/>
+	<SubTexture name="bangsnaps0011" x="285" y="0" width="92" height="159"/>
+	<SubTexture name="bangsnaps0012" x="285" y="0" width="92" height="159"/>
+	<SubTexture name="bangsnaps0013" x="285" y="0" width="92" height="159"/>
+</TextureAtlas>

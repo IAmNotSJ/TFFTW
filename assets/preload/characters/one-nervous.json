@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "one idle"
+		},
+		{
+			"offsets": [
+				-24,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "one right0"
+		},
+		{
+			"offsets": [
+				41,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "one left0"
+		},
+		{
+			"offsets": [
+				0,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "one up0"
+		},
+		{
+			"offsets": [
+				-1,
+				-29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "one down0"
+		},
+		{
+			"offsets": [
+				8,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "one right miss"
+		},
+		{
+			"offsets": [
+				58,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "one left miss"
+		},
+		{
+			"offsets": [
+				6,
+				72
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "one up miss"
+		},
+		{
+			"offsets": [
+				10,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "one down miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				11
+			],
+			"anim": "danger",
+			"fps": 24,
+			"name": "one danger",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-18
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "final",
+			"loop": false,
+			"name": "one final anim"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/one-nervous",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "one-danger",
+	"flip_x": true,
+	"healthbar_colors": [
+		118,
+		44,
+		180
+	],
+	"camera_position": [
+		-100,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

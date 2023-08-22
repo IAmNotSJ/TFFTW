@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "director idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "director left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "director down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "director up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "director right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/director-phase2",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "director",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		110,
+		110
+	],
+	"camera_position": [
+		-560,
+		-550
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

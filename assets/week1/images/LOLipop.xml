@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LOLipop.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LOLipop0000" x="0" y="0" width="178" height="367"/>
+	<SubTexture name="LOLipop0001" x="0" y="0" width="178" height="367"/>
+	<SubTexture name="LOLipop0002" x="181" y="0" width="178" height="367"/>
+	<SubTexture name="LOLipop0003" x="181" y="0" width="178" height="367"/>
+	<SubTexture name="LOLipop0004" x="362" y="0" width="178" height="367"/>
+	<SubTexture name="LOLipop0005" x="362" y="0" width="178" height="367"/>
+	<SubTexture name="LOLipop0006" x="543" y="0" width="178" height="367"/>
+	<SubTexture name="LOLipop0007" x="543" y="0" width="178" height="367"/>
+	<SubTexture name="LOLipop0008" x="543" y="0" width="178" height="367"/>
+	<SubTexture name="LOLipop0009" x="543" y="0" width="178" height="367"/>
+	<SubTexture name="LOLipop0010" x="543" y="0" width="178" height="367"/>
+	<SubTexture name="LOLipop0011" x="543" y="0" width="178" height="367"/>
+	<SubTexture name="LOLipop0012" x="543" y="0" width="178" height="367"/>
+	<SubTexture name="LOLipop0013" x="543" y="0" width="178" height="367"/>
+</TextureAtlas>

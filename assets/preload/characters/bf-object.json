@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				45,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				-33,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF NOTE DOWN0"
+		},
+		{
+			"offsets": [
+				-26,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF NOTE UP0"
+		},
+		{
+			"offsets": [
+				-9,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF NOTE RIGHT0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF Idle Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				51
+			],
+			"anim": "singUPmiss-funny",
+			"fps": 24,
+			"name": "BF NOTE UP MISS FUNNY",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				11
+			],
+			"anim": "singRIGHTmiss-funny",
+			"fps": 24,
+			"name": "BF NOTE RIGHT MISS FUNNY",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				53,
+				29
+			],
+			"anim": "singLEFTmiss-funny",
+			"fps": 24,
+			"name": "BF NOTE LEFT MISS FUNNY",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				35
+			],
+			"anim": "singDOWNmiss-funny",
+			"fps": 24,
+			"name": "BF NOTE DOWN MISS FUNNY",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				35
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF NOTE DOWN MISS0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				51
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF NOTE UP MISS0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				53,
+				29
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF NOTE LEFT MISS0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				11
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF NOTE RIGHT MISS0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bfObject",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf-object",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lollipop.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lollipop0000" x="0" y="0" width="146" height="280"/>
+	<SubTexture name="lollipop0001" x="0" y="0" width="146" height="280"/>
+	<SubTexture name="lollipop0002" x="149" y="0" width="146" height="280"/>
+	<SubTexture name="lollipop0003" x="149" y="0" width="146" height="280"/>
+	<SubTexture name="lollipop0004" x="298" y="0" width="146" height="280"/>
+	<SubTexture name="lollipop0005" x="298" y="0" width="146" height="280"/>
+	<SubTexture name="lollipop0006" x="447" y="0" width="146" height="280"/>
+	<SubTexture name="lollipop0007" x="447" y="0" width="146" height="280"/>
+	<SubTexture name="lollipop0008" x="447" y="0" width="146" height="280"/>
+	<SubTexture name="lollipop0009" x="447" y="0" width="146" height="280"/>
+	<SubTexture name="lollipop0010" x="447" y="0" width="146" height="280"/>
+	<SubTexture name="lollipop0011" x="447" y="0" width="146" height="280"/>
+	<SubTexture name="lollipop0012" x="447" y="0" width="146" height="280"/>
+	<SubTexture name="lollipop0013" x="447" y="0" width="146" height="280"/>
+</TextureAtlas>
